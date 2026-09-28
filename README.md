@@ -1,4 +1,4 @@
-# SmartForm + Next.js (App Router)
+# Next.js contact form — Formspree alternative with AI spam filtering
 
 Contact form using a Next.js Server Action that forwards to
 [SmartForm AI](https://usesmartform.com).
